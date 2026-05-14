@@ -30,11 +30,12 @@
                     </a>
                 </li>
 
-                <li class="nav-item">
-                    <a href="views/admin/login.php" class="btn btn-danger ms-2">
-                        Login
-                    </a>
-                </li>
+                <a href="views/admin/login.php"
+                    class="btn btn-danger ms-2">
+
+                    Login
+
+                </a>
 
             </ul>
 

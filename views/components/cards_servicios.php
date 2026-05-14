@@ -12,7 +12,7 @@
 
                 <div class="card shadow border-0 h-100">
 
-                    <img src="assets/img/servicios/aceite.jpg" class="card-img-top">
+                    <img src="assets/img/servicios/aceite.jpeg" class="card-img-top">
 
                     <div class="card-body">
 
