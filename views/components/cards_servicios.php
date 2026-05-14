@@ -28,8 +28,11 @@
                             Desde S/80
                         </h6>
 
-                        <a href="#" class="btn btn-dark w-100">
+                        <a href="views/public/solicitar_servicio.php"
+                            class="btn btn-dark w-100">
+
                             Solicitar Atención
+
                         </a>
 
                     </div>
