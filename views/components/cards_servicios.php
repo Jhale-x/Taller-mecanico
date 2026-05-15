@@ -1,44 +1,33 @@
-<section id="servicios" class="py-5">
+<section id="servicios" class="py-5 bg-light">
 
-    <div class="container">
+    <div class="container text-center">
 
-        <h2 class="text-center fw-bold mb-5">
-            Nuestros Servicios
-        </h2>
+        <h2 class="mb-5">Nuestros Servicios</h2>
 
         <div class="row g-4">
 
-            <div class="col-md-4">
-
-                <div class="card shadow border-0 h-100">
-
-                    <img src="assets/img/servicios/aceite.jpeg" class="card-img-top">
-
-                    <div class="card-body">
-
-                        <h5 class="card-title">
-                            Cambio de Aceite
-                        </h5>
-
-                        <p class="card-text">
-                            Cambio completo de aceite y filtro.
-                        </p>
-
-                        <h6 class="text-danger">
-                            Desde S/80
-                        </h6>
-
-                        <a href="views/public/solicitar_servicio.php"
-                            class="btn btn-dark w-100">
-
-                            Solicitar Atención
-
-                        </a>
-
-                    </div>
-
+            <div class="col-md-3">
+                <div class="card shadow p-3">
+                    <h5>Cambio de aceite</h5>
                 </div>
+            </div>
 
+            <div class="col-md-3">
+                <div class="card shadow p-3">
+                    <h5>Frenos</h5>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="card shadow p-3">
+                    <h5>Suspensión</h5>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="card shadow p-3">
+                    <h5>Diagnóstico</h5>
+                </div>
             </div>
 
         </div>

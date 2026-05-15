@@ -21,3 +21,21 @@
     </div>
 
 </section>
+
+<section class="hero d-flex align-items-center text-white">
+    <div class="container text-center">
+
+        <h1 class="display-4 fw-bold">
+            Taller Mecánico Profesional
+        </h1>
+
+        <p class="lead">
+            Diagnóstico, reparación y mantenimiento de vehículos con garantía
+        </p>
+
+        <a href="views/public/solicitar_servicio.php" class="btn btn-danger btn-lg mt-3">
+            Solicitar Servicio
+        </a>
+
+    </div>
+</section>
